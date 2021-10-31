@@ -1,0 +1,85 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "About",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "About",
+          "x": 195,
+          "y": 49
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "This Minecraft client is for any",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "This Minecraft client is for any",
+          "x": 128,
+          "y": 81
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Coming soon!",
+          "width": 235,
+          "height": 20,
+          "name": "Coming soon!",
+          "x": 94,
+          "y": 209
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "one who wants too play",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "one who wants too play",
+          "x": 129,
+          "y": 93
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Minecraft in style",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Minecraft in style",
+          "x": 130,
+          "y": 104
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

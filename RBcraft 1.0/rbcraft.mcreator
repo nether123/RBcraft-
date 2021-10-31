@@ -1,0 +1,102 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Coalpicaxe",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coalpicaxe"
+    },
+    {
+      "name": "Aboutgui",
+      "type": "gui",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aboutgui"
+    },
+    {
+      "name": "Aboutkeybinding",
+      "type": "keybind",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aboutkeybinding"
+    },
+    {
+      "name": "AboutCommandExecuted",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "about_command_executed",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Coalaxe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coalaxe"
+    },
+    {
+      "name": "Coalaxerecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coalaxerecipe"
+    },
+    {
+      "name": "Coalpicaxerecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coalpicaxerecipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.rbcraft.coalaxe": "Coalaxe",
+      "key.rbcraft.aboutkeybinding": "Aboutkeybinding",
+      "item.rbcraft.coalpicaxe": "Coalpicaxe"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "rbcraft",
+    "modName": "RBcraft",
+    "version": "1.0.0",
+    "author": "railendemoss, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.rbcraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}
